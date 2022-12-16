@@ -1,0 +1,85 @@
+
+
+.header {
+	position: sticky;
+	display: flex;
+  justify-content:space-around;
+ 	border-bottom: 1px #ffffff solid;
+	top: 0px;
+	font-family: 'Nunito Sans', sans-serif;
+	font-size: 17px;
+	padding: 15px;
+	background-color: #000000;
+}
+
+
+
+a:hover{
+
+		text-decoration: underline;
+		text-decoration-color: #3EFA8D;
+		color: #3EFA8D;
+}
+
+
+
+a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+
+
+
+
+.titre_site {
+	font-family: 'Raleway', sans-serif;
+	color: #FFFFFF;
+  font-size: 600%;
+  font-weight: 900;
+	text-align: right;
+	margin-right: 7%;
+	margin-top: 8%;
+	text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.bouton_découvrir {
+	font-family: 'Raleway', sans-serif;
+	font-size: 25px;
+	font-weight: 400;
+	border-radius: 22px;
+	border: 1px solid #21A2B4;
+	padding: 12px;
+	background-color: #000000;
+	color: #21A2B4;
+	display: flex;
+	justify-content: center;
+	margin-left:80%;
+	width: 160px;
+
+}
+
+.bouton_découvrir:hover{
+	background-color: #21A2B4;
+	color: #000000;
+	border: 1px solid  #000000;
+
+
+}
+
+
+body{
+	font-family: 'Raleway', sans-serif;
+	background-color: #000000;
+	background-size: cover;
+}
+
+
+
+
+
+
+.encadrer-un-contenu{
+			 border: 1px solid black;
+			 padding: 5px;
+	 }
